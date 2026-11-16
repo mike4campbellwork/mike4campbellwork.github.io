@@ -1,0 +1,6 @@
+{
+  "issuer": "https://mike4campbellwork.github.io",
+  "jwks_uri": "https://mike4campbellwork.github.io/.well-known/jwks.json",
+  "client_name": "mike4campbellwork",
+  "logo_uri": "https://avatars.githubusercontent.com/u/153550745?v=4"
+}

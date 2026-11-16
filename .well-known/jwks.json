@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "crv": "Ed25519",
+      "x": "Ny7HxFveAONt7mZLWDcF0wZs3-GG7Fe9kN0wXEah-x4",
+      "kty": "OKP",
+      "alg": "Ed25519",
+      "kid": "2026-11-16_e35",
+      "use": "sig",
+      "aauth": {
+        "device": "campbell-ubuntu",
+        "created": "2026-11-16"
+      }
+    }
+  ]
+}
